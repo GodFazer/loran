@@ -1,5 +1,5 @@
 # loran
-![image](https://github.com/user-attachments/assets/6866e90b-ff28-4d88-9072-09a954ea5073)
+
 
 ## Імпорт бібліотек:
 
